@@ -1,8 +1,11 @@
+import React from 'react'
 
-export default function Home() {
+const Contact = () => {
   return (
     <div className="flex ml-5 items-center justify-center h-[500px] ">
-      Home page | UI
+      Contact page | UI
     </div>
   );
 }
+
+export default Contact
